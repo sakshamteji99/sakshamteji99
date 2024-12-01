@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I am Saksham Teji. Currently SDE-1 @Amadeus
+
+Languages and Tools: C++ Golang Kubernetes DevOps 
 
 <!--
 **sakshamteji99/sakshamteji99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
